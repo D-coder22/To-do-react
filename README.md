@@ -1,15 +1,15 @@
 ## To-do React App
+A simple to do list built using React
 
-Once cloned run:
+### Technology Stack: ###
+- HTML
+- CSS
+- JavaScript, [React.js](https://reactjs.org/)
 
-### `npm install`
-
-Installs dependencies required to run this Application
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### Working on 'to-do-react' locally ###
+- Clone the repository locally. 
+- Navigate to the directory. `cd to-do-react`.
+- Run `npm install` to install dependencies.
+- Run `npm run start` to start the development server.
+- Run `npm run test` to test.
+- Run `npm run build` to create a optimized production build.
